@@ -1,6 +1,6 @@
-#Reading Class 09
+# Reading Class 09
 
-##Five Steps in the HTTP Request Lifecycle:
+## Five Steps in the HTTP Request Lifecycle:
 
 1- DNS Resolution: The client needs to resolve the domain name of the server to an IP address using the Domain Name System (DNS).
 
