@@ -14,3 +14,4 @@
 4. [Reading class 04](readingTasks/CLASS4Read.md)
 5. [Reading class 06](readingTasks/CLASS6Read.md)
 6. [Reading class 08](readingTasks/CLASS8Read.md)
+7. [Reading class 09](readingTasks/CLASS9Read.md)
