@@ -15,3 +15,5 @@
 5. [Reading class 06](readingTasks/CLASS6Read.md)
 6. [Reading class 08](readingTasks/CLASS8Read.md)
 7. [Reading class 09](readingTasks/CLASS9Read.md)
+8. [Reading class 10](readingTasks/StacksAndQueuesRead.md)
+9. [Reading class 013](readingTasks/CLASS13Read.md)
