@@ -18,3 +18,4 @@
 8. [Reading class 10](readingTasks/StacksAndQueuesRead.md)
 9. [Reading class 013](readingTasks/CLASS13Read.md)
 10. [Reading class 014](readingTasks/CLASS14Read.md)
+11. [Reading Tree](readingTasks/TreeRead.md)
