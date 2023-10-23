@@ -25,3 +25,4 @@
 15. [Reading class 26](readingTasks/CLASS26Read.md)
 16. [Reading class 27](readingTasks/CLASS27Read.md)
 17. [Reading class 28](readingTasks/CLASS28Read.md)
+18. [Reading class 29](readingTasks/CLASS29Read.md)
