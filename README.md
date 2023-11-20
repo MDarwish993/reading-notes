@@ -27,3 +27,4 @@
 17. [Reading class 28](readingTasks/CLASS28Read.md)
 18. [Reading class 29](readingTasks/CLASS29Read.md)
 19. [Reading Hash Tables](readingTasks/HashTablesRead.md)
+20. [Reading class 37](readingTasks/CLASS37Read.md)
